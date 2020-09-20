@@ -1,0 +1,11 @@
+.header {
+  display:flex;
+  flex-direction: row;
+  height: 55px;
+  box-shadow:0 5px 1px 1px rgba(0,0,0, .03); 
+  background-color: var(--white_color);
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding-left:15px;
+  padding-right:15px;
+}

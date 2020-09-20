@@ -1,0 +1,7 @@
+.b-left-1 {
+  border-left-width:1px;
+  border-left-style: solid;
+}
+.b-fainter_gray_color {
+  border-color: var(--fainter_gray_color);
+}

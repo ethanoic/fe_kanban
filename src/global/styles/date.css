@@ -1,0 +1,20 @@
+.date {
+  font-weight: 600;
+  font-size: 11px;
+  text-transform: capitalize;
+}
+.date--none {
+  display:none;
+}
+.date--overdue {
+  color: var(--red_color);
+}
+.date--today {
+  color: var(--purple_color);
+}
+.date--notdue {
+  color: var(--green_color);
+}
+.date--muted {
+  color: var(--gray_color);
+}

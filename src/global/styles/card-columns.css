@@ -1,0 +1,21 @@
+.card__column {
+  display:flex;
+  flex-direction: column;
+  padding-left:15px;
+  padding-right:15px;
+  width: 33%;
+}
+
+.column__name {
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--dark_blue_color);
+  letter-spacing: 0.25px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.columnn__cards {
+  display:flex;
+  flex-direction: column;
+}

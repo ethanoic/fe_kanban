@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+.container {
+  width: 100%;
+  max-width: 975px;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 10px;
+  background-color: var(--fainter_gray_color);
+  margin-top:15px;
+}

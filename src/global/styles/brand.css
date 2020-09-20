@@ -1,0 +1,10 @@
+.brand {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.brand__logo {
+  width:30px;
+}
